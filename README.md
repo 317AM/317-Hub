@@ -146,4 +146,3 @@ Returns:
 
 ---
 
-*Hub 317 — built to live on a home server, not in the cloud.*
