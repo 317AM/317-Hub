@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Hub317</RootNamespace>
+    <AssemblyName>Hub317</AssemblyName>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
